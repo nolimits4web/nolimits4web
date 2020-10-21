@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vladimir</h1>
-<h2 align="center">Frontend engineer. Creator of <a href="https://framework7.io">Framework7</a> and <a href="https://swiperjs.com">Swiper</a></h2>
+<h3 align="center">Frontend engineer. Creator of <a href="https://framework7.io">Framework7</a> and <a href="https://swiperjs.com">Swiper</a></h3>
+<br/>
+<br/>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nolimits4web&margin-w=8" alt="nolimits4web" /></a> </p>
 
