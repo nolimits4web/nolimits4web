@@ -1,2 +1,2 @@
 <h1 align="center">Hi 👋, I'm Vladimir</h1>
-<h3 align="center">Creator of <a href="https://cladd.io" target="_blank">cladd</a>, <a href="https://framework7.io" target="_blank">Framework7</a>, <a href="https://swiperjs.com" target="_blank">Swiper</a> and <a href="https://konstaui.com" target="_blank">Konsta UI</a></h3>
+<h3 align="center">Creator of <a href="https://cladd.io" target="_blank">Cladd</a>, <a href="https://framework7.io" target="_blank">Framework7</a>, <a href="https://swiperjs.com" target="_blank">Swiper</a> and <a href="https://konstaui.com" target="_blank">Konsta UI</a></h3>
